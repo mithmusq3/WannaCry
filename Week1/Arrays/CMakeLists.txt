@@ -37,4 +37,23 @@ add_executable(Arrays main.cpp
         q30.cpp
         q31.cpp
         q33.cpp
-        q34.cpp)
+        q34.cpp
+        q35.cpp
+        q36.cpp
+        q37.cpp
+        q38.cpp
+        39.cpp
+        q40.cpp
+        q41.cpp
+        q42.cpp
+        q43.cpp
+        q44.cpp
+        q45.cpp
+        q46.cpp
+        q47.cpp
+        q48.cpp
+        q49.cpp
+        q50.cpp
+        q51.cpp
+        q52.cpp
+        q48_5.cpp)
