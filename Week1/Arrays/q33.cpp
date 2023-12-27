@@ -12,29 +12,24 @@ void printVector(vector <string>& vec){
     return;
 }
 int main() {
-    vector<string> arr1 = {"a1","b2","c3","d4","hey69","bye420"};
+    vector<string> arr1 = {"a","1","b","2","c","3","d","4","f","69","k","420"};
     int n=arr1.size();
-    vector<string> st(n,"");
-    vector<string> in(n,"");
-
+    vector<string> arr(n,"");
+    int num=n/2;
+    int alp=0;
     for(int i=0;i<n;i++){
-        string string1="";
-        string int1="";
-        for(int j=0;j<arr1[i].size();j++){
-            if(arr1[i][j]>='a'){
-                string1+=arr1[i][j];
-            }
-            else {
-                int1+=arr1[i][j];
-            }
+        if(i%2==0) {
+            arr[alp]=arr1[i];
+            alp++;
         }
-        st[i]=string1;
-        in[i]=int1;
+        else {
+            arr[num]=arr1[i];
+            num++;
+        }
     }
-    sort(st.begin(),st.end());
-    sort(in.begin(),in.end());
-    st.insert(st.end(),in.begin(),in.end());
-    printVector(st);
+    printVector(arr1);
+    cout<<endl;
+    printVector(arr);
 
 
 
