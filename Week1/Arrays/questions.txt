@@ -1,0 +1,61 @@
+Hola , this is me starting my internship prep :/
+Akshay V
+106122011
+Questions ARRAY:
+
+Find Union and Intersection of two sorted arrays
+Find the Number Occurring Odd Number of Times
+Find missing number from array of N-1 numbers in the range 1 to N
+Find the two non-repeating elements in an array of repeating elements
+Find the two numbers with odd occurrences in an unsorted array
+Find the next smallest palindrome
+find the next higher permutation of the given number as an array of digits. If such a number
+doesn’t exist, return -1.
+Find pair of numbers with given sum X
+Find a,b,c such that a^2+b^2=c^2
+Find a triplet that sum to a given value
+Find four elements that sum to a given value
+Find two repeating elements in a given array
+Find the 3 elements such that a[i] < a[j] < a[k] and i < j < k
+Find the least positive number missing in an unsorted array.
+Find the row with maximum number of 1s in a 2D row-wise sorted matrix
+Find Maximum difference between two elements such that the larger element appears after
+the smaller element in array
+Find two numbers such that their difference is minimum
+Find two elements whose sum is closest to zero
+Find the first subarray which has a zero sum in an array
+Find duplicates in O(n) time
+Find points in an array where left-sum==right-sum
+Search a number in a row wise and column wise sorted 2D matrix
+Print matrix spirally
+Measure amount of water in j’th glass of i’th row of glasses arranged like a pyramid
+Construct Product Array without division operator: each element = product of elements in
+arr[] except arr[i]
+Shuffle a given array
+Sort elements by frequency
+Segregate Even and Odd numbers
+Segregate 0s and 1s
+Sort an array of 0s, 1s and 2s
+Move all zeroes to end of array
+Rearrange positive and negative numbers alternatively
+Given an array [a1b2c3d4] convert to [abcd1234]
+Maximum and minimum of an array using minimum number of comparisons
+Given binary 2D Matrix, for all cells as 1, set corresponding row and column as 1
+Turn an image by 90 degrees
+Inplace M x N size matrix transpose
+Intersection of n sets
+Print Matrix Diagonally
+Rotate an array by d elements
+Largest Sum Contiguous Subarray
+Maximum Product Subarray
+Maximum Length Bitonic Subarray
+Find continous subarray with given sum
+Largest subarray with equal number of 0s and 1s
+Maximum subsequence sum such that no two elements are adjacent
+Find the majority element (with frequency > N/2)
+Find the maximum repeating number
+Count the number of Inversions in an array
+Find kth smallest element
+Stock Buy Sell to Maximize Profit
+Print the elements greater than all the elements to its right
+calculate the area of water collected by rain holded by bar graph/histogram
