@@ -1,0 +1,21 @@
+week 2- dsa task :
+QUESTIONS:
+STRINGS
+Print reverse of a string using recursion
+Print all permutations of a string
+Given a string find its first non-repeating character
+Reverse words in a given string
+Print all the duplicates in the input string
+Move all even-index positioned chars to end of string maintaining even-odd order
+Find Lexicographic rank of a string
+Run Length Encoding
+Implement atoi function
+Print the first unique character in a string
+Write strcmp function and returns -1 if s1 < s2, 0 if s1 = s2, else returns 1
+Remove from string s1, all the characters that are present in string s2.
+Check whether two strings are anagram of each other
+Length of the longest substring without repeating characters
+Find the smallest window in a string containing all characters of another string
+Recursively remove all adjacent duplicates
+Evaluate a regular expression a*b?c with aaaabcc
+String Matching - KMP Algorithm
